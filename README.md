@@ -1,2 +1,2 @@
 # Nithin-rayudu
-Yamyah Coding Test
+Coding Test
